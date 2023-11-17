@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(148, 238, 233);
+      border-radius: 25px;
+   padding: 200px;
+
+  }
+  header {
+      font-weight:bold;
+      text-decoration: solid;
+  }
+  h1 {
+    color: rgba(8, 36, 136, 0.397);
+    text-align: center;
+    font-style:italic;
+  }
+  h2{
+      color:rgb(141, 130, 238);
+      text-align:left;
+      font-style:oblique
+  }
+  a {
+    font-family: verdana;
+    font-size: 35px;
+    color: rgb(43, 92, 100);
+    border:solid;
+  }
+  p {
+      color:rgb(8, 8, 8);
+      font-size: large;
+      word-spacing: 10px;
+     }
+     label{
+      color:rgb(0, 26, 255);
+      font-style: oblique;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      border:inset;
+     }
+     #para1{
+      word-spacing: 10px;
+      border-style: double;
+     }
+     #para2{
+      word-spacing: 15px;
+      border-style: dashed;
+     }
+     #login{
+        color:red;
+     }
